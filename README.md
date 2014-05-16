@@ -16,7 +16,7 @@ LocalResizeIMG
 ![图1](http://think2011.qiniudn.com/LocalResizeIMG1.gif)
 
 ## 使用方法
-具体详情请查看 源代码，或者 demo。
+具体详情请查看 源代码，或者 [demo](http://think2011.github.io/LocalResizeIMG)。
 ```javascript
 	$('input:file').localResizeIMG({
 	     width: 100,
@@ -38,5 +38,4 @@ LocalResizeIMG
 
 > ##### 技术： jquery
 > ##### 时间： 2014年5月
-> ##### 源码： [Guthub](https://github.com/think2011/LocalResizeIMG)
 > ##### 博客： [think2011](http://think2011.github.io)

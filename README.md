@@ -1,5 +1,7 @@
 LocalResizeIMG
 ==============
+添加依赖js,和图片自动旋转为正常。
+图片旋转可以查看：http://jsfiddle.net/m1erickson/6ZsCz/
 
 # 前端HTML5本地压缩图片，兼容移动设备IOS,android。
 
